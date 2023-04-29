@@ -16,7 +16,7 @@ This template sets up the following resources:
 - AWS CLI installed and configured with the necessary credentials.
 - A React app created using create-react-app.
 
-Usage
+## Usage
 
 1. Clone or download this repository.
 2. In the AWS Management Console, navigate to the CloudFormation service.

@@ -6,7 +6,7 @@ Resources:
   MyBucket:
     Type: 'AWS::S3::Bucket'
     Properties:
-      BucketName: my-new-bucket-796d5962f8cf63ec
+      BucketName: my-new-bucket-
       PublicAccessBlockConfiguration:
         BlockPublicAcls: false
         BlockPublicPolicy: false
